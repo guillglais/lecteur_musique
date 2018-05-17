@@ -1,0 +1,2 @@
+# lecteur_musique
+Lecteur de musique capable de lire des musiques au format mp3. Dans un premier temps, les musiques sont jouées dans un ordre aléatoire. Il est possible d'avoir accès à des fonctionnalités de base d'un lecteur audio telles que play, pause, suivant, précédent et retour. Vous avez aussi accès à une fonction permettant de jouer une musique de votre choix, ainsi qu'à une option de personnalisation de la couleur des boutons.
